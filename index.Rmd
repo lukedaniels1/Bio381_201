@@ -6,21 +6,14 @@ output:
   prettydoc::html_pretty:
     theme: leonids
     highlight: textmate
-name: "my-website"
-navbar:
-  title: "Lukes Website"
-  type: inverse
-  left:
-    - text: "Home"
       
 ---
 ## Luke's Webpage 
-I am a senior undergraduate student 
+
+Email: ldaniels1@uvm.edu
+
+My Githib Homepage:"https://lukedaniels1.github.io/Bio381_2018/"
 ![Picture of Vermont](http://www.vtfreemasons.org/images/fall.jpg)
 
-<img src = " " width="200: height ="200" "
 
 
-* item 1
-* item 2
-* item 3
