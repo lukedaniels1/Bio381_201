@@ -7,9 +7,11 @@ output:
     theme: leonids
     highlight: github
 ---
-## Creates a title 
-**bold** 
+## Luke's Webpage 
 
-*item 1
-*item 2
-*item 3
+![Picture of Vermont](http://www.vtfreemasons.org/images/fall.jpg)
+
+
+* item 1
+* item 2
+* item 3
