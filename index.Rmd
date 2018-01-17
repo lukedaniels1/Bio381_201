@@ -5,11 +5,20 @@ date: "1/17/2018"
 output: 
   prettydoc::html_pretty:
     theme: leonids
-    highlight: github
+    highlight: textmate
+name: "my-website"
+navbar:
+  title: "Lukes Website"
+  type: inverse
+  left:
+    - text: "Home"
+      
 ---
 ## Luke's Webpage 
-
+I am a senior undergraduate student 
 ![Picture of Vermont](http://www.vtfreemasons.org/images/fall.jpg)
+
+<img src = " " width="200: height ="200" "
 
 
 * item 1
