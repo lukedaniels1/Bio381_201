@@ -2,7 +2,14 @@
 title: "Bio 381 Webpage"
 author: "Luke Daniels"
 date: "1/17/2018"
-output: html_document
+output: 
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
 ---
 ## Creates a title 
 **bold** 
+
+*item 1
+*item 2
+*item 3
