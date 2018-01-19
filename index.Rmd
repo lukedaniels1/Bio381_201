@@ -2,20 +2,26 @@
 title: "Bio 381 Webpage"
 author: "Luke Daniels"
 date: "1/17/2018"
+Picture: ![](Images/Profile.JPG) 
 output: 
   prettydoc::html_pretty:
     theme: tactile
     highlight: textmate
   rmdformats::html_clean:
     highlight: kate
+    
 ---
 <p align="center">
 
-#### Luke Daniels
-   
+*I am a senior undergraduate student majoring in Biology.  Currently, I am working in Dr. Lockwood's lab.*
+
+<p align= "center">
+
+**This site contains the work completed in Bio381 during the spring semester 2018**
+
 Email: ldaniel1@uvm.edu  
 
-<div style="width:300px; height=200px">
+<div style="width:300px; height=200px"; "center>
 :![](Images/Profile.JPG)    
 
 ## Helpful Links   
@@ -46,9 +52,9 @@ Email: ldaniel1@uvm.edu
 [Assignment Page](https://gotellilab.github.io/Bio381/Homeworks/Homework01.html)   
    
 Due:   
-1. A fun fact about yourself   
-2. Your github homepage   
-3. Your BIO 381 webpage    
+1. Met Matthew Perry, Play Guitar   
+2. http://lukedaniels1.github.io  
+3. https://lukedaniels1.github.io/Bio381_2018/ 
    
 No solution   
 
