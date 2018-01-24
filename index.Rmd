@@ -33,6 +33,9 @@ Email: ldaniel1@uvm.edu
 ## Table of contents of Homework Assignments    
 * [Homework 1: ](#id-section1)
 * [Homework 2: ](#id-section2)
+   
+   [Link to Current Draft of Logic Tree](Homework_2_Draft.html)
+   
 * [Homework 3: ](#id-section3)
 * [Homework 4: ](#id-section4)
 * [Homework 5: ](#id-section5)
