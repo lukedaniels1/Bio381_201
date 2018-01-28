@@ -17,11 +17,9 @@ output:
 
 Contact Me! ldaniel1@uvm.edu  
 
-<center> 
-<div style="width:400px; height=500px"; "<center>
+<left> 
+<div style="width:400px; height=500px"; "<left>
 :![](Images/Profile.JPG) 
-
-<div style="text-align:left" markdown="1">
 
 
 ## Helpful Links   
