@@ -13,15 +13,11 @@ output:
 ---
 <p align="center">
 
-*I am a senior undergraduate student majoring in Biology.  Currently, I am working in Dr. Lockwood's lab.*
+*I am a senior undergraduate student majoring in Biology.  Currently, I am working in Dr. Lockwood's lab. In this role I am assisting Emily Mikucki in researching the effects of winter warming on P. rapae. This site contains the work completed in Bio381 during the spring semester 2018*
 
-<p align= "center">
-
-**This site contains the work completed in Bio381 during the spring semester 2018**
-
-Email: ldaniel1@uvm.edu  
-
-<div style="width:300px; height=200px"; "center>
+Contact Me! ldaniel1@uvm.edu  
+\center
+<div style="width:300px; height=200px"; "<center>
 :![](Images/Profile.JPG)    
 
 ## Helpful Links   
@@ -30,31 +26,15 @@ Email: ldaniel1@uvm.edu
 * [Github website templates](https://github.com/jekyll/jekyll/wiki/Themes)   
 * [R help](http://stackoverflow.com/questions/tagged/r)   
 
-## Table of contents of Homework Assignments    
-* [Homework 1: ](#id-section1)
-* [Homework 2: ](#id-section2)
-   
-   [Link to Current Draft of Logic Tree](Homework 2.html)
-   
-* [Homework 3: ](#id-section3)
-* [Homework 4: ](#id-section4)
-* [Homework 5: ](#id-section5)
-* [Homework 6: ](#id-section6) 
-* [Homework 7: ](#id-section7)
-* [Homework 8: ](#id-section8)
-* [Homework 9: ](#id-section9)   
-* [Week 10: ](#id-section10)
-* [Week 11: ](#id-section11)
-
-
 ## Homework Solutions and Notes
 
 ------
 <div id='id-section1'/>
-### Week 1: Setting up a webpage 
+#### Week 1: Setting up a webpage 
 [Assignment Page](https://gotellilab.github.io/Bio381/Homeworks/Homework01.html)   
    
-Due:   
+Due:  
+*Index Page Sucessfully Built*
 1. Met Matthew Perry, Play Guitar   
 2. http://lukedaniels1.github.io  
 3. https://lukedaniels1.github.io/Bio381_2018/ 
@@ -63,73 +43,64 @@ No solution
 
 ------
 <div id='id-section2'/>
-### Week 2:    
+#### Week 2:    
 
-Due:   
+Due: [Experimental Logic Tree](Homework 2.html)
  
 
 ------
 <div id='id-section3'/>
-### Week 3: 
+#### Week 3: 
 
 Due:   
        
-
-
-
 ------
 <div id='id-section4'/>
-### Week 4:    
+#### Week 4:    
 
 Due:   
       
 
 ------
 <div id='id-section5'/>   
-### Week 5: 
+#### Week 5: 
 Due:   
    
  
 ------
 <div id='id-section6'/>   
-### Week 6: 
+#### Week 6: 
 
 ------
 <div id='id-section7'/>
-### Week 7: 
+#### Week 7: 
 
 
 ------
 <div id='id-section8'/>
-### Week 8:  
+#### Week 8:  
 
 Due:   
    
 
 ------
 <div id='id-section9'/>
-### Week 9: 
+#### Week 9: 
 
 Due:   
 
 ------
 <div id='id-section10'/>
-### Week 10:    
+#### Week 10:    
 
 
 ------
 <div id='id-section11'/>
-### Week 11:   
+#### Week 11:   
 
----
-## Luke's Webpage 
+ 
 
-Index page successfully built.
 
-Email: ldaniels1@uvm.edu
-
-<div style="width:300px; height=200px">
-:![My Figure](Images/Profile.JPG) 
  
       
 
