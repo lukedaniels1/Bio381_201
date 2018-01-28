@@ -34,7 +34,7 @@ Email: ldaniel1@uvm.edu
 * [Homework 1: ](#id-section1)
 * [Homework 2: ](#id-section2)
    
-   [Link to Current Draft of Logic Tree](Homework_2.html)
+   [Link to Current Draft of Logic Tree](Homework 2.html)
    
 * [Homework 3: ](#id-section3)
 * [Homework 4: ](#id-section4)
