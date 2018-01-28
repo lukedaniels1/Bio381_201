@@ -18,10 +18,11 @@ output:
 Contact Me! ldaniel1@uvm.edu  
 
 <center>
-<div style="width:300px; height=200px"; "<center>
-:![](Images/Profile.JPG)    
+<div style="width:200px; height=300px"; "<center>
+:![](Images/Profile.JPG) <(div style="width: 400px; height=100px"; "<right> ![](http://www.vtfreemasons.org/images/fall.jpg)
 <\center>
 
+<left>
 ## Helpful Links   
 * [Course Webpage](https://gotellilab.github.io/Bio381/)   
 * [RMarkdown Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)   
@@ -100,15 +101,4 @@ Due:
 <div id='id-section11'/>
 #### Week 11:   
 
- 
-
-
- 
-      
-
-My Githib Homepage:"https://lukedaniels1.github.io/Bio381_2018/"
-![Picture of Vermont](http://www.vtfreemasons.org/images/fall.jpg)
-
-
-
-
+<\left> 
