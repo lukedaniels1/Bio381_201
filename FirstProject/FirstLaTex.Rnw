@@ -1,0 +1,12 @@
+\documentclass{article}
+
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+
+
+\section*{First Section}
+\smallfont{hello}
+Working in Latex isn't so hard! 
+
+
+\end{document}

@@ -1,0 +1,10 @@
+---
+title: "First Beamer Slides"
+author: "Luke Daniels"
+date: "1/30/2018"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
