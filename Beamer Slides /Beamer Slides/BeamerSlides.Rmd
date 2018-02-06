@@ -56,7 +56,7 @@ Occasionally, you may want to override incremental bullet points and show them a
 ```
 which will yield:
   
-  >- simultaneous first bullet point
+>- simultaneous first bullet point
 >- simultaneous second bullet point
 >- simultaneous final bullet point
 
@@ -164,5 +164,11 @@ In this slide, 5 consecutive `\bigskip`s pushed this line to the bottom!
   \end{minipage}}
 \end{picture}
 
+# R Code Gall 
+
+```{r echo= FALSE }
+
+Gall <- read.csv(file = "Gall_RawData(1).csv")
 
 
+```
